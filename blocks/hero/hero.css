@@ -25,10 +25,10 @@ main .hero h1 {
 main .hero picture {
     position: absolute;
     z-index: -1;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
+    top: 10;
+    left: 10;
+    bottom: 10;
+    right: 10;
     object-fit: contain;
     box-sizing: border-box;
 }
